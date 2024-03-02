@@ -1,0 +1,25 @@
+#container{
+    height: 500px;
+    width: 600px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+   
+    align-content: space-evenly;
+    
+}
+#container div{
+    height: 100px;
+    width: 30px;  
+    text-align: center;
+    color: black;
+    font-size: 1em;
+}
+#blackk{
+    flex-grow: 1;
+}
+#green{
+    flex-grow: 1;
+}
+

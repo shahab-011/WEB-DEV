@@ -1,0 +1,12 @@
+div{
+    height: 400px;
+    width: 200px;
+    background-color: aqua;
+    margin: 50px auto;
+    background-image: url(mon.jpg);
+    background-size: contain;
+    box-shadow: 20px 20px 50px black;
+    color: white;
+
+    
+}

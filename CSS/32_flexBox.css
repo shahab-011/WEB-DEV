@@ -1,0 +1,57 @@
+#container{
+    height: 300px;
+    width:500px;
+    border: 2px solid black;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+
+
+
+
+#red{
+    height: 70px;
+    width: 150px;
+    background-color: red;
+}
+#yellow{
+    height: 70px;
+    width: 150px;
+    background-color: yellow;
+}
+#green{
+    height: 70px;
+    width: 150px;
+    background-color: green;
+}
+#blue{
+    height: 70px;
+    width: 150px;
+    background-color: blue;
+}
+#purple{
+    height: 70px;
+    width: 150px;
+    background-color: purple;
+}
+#black{
+    height: 70px;
+    width: 150px;
+    background-color: black;
+}
+#pink{
+    height: 70px;
+    width: 150px;
+    background-color: pink;
+}

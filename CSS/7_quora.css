@@ -1,0 +1,64 @@
+p a {
+    color: purple;
+    background-color: yellow;
+}
+.upvote{
+    background-color: pink;
+}
+nav ul li a{
+    color: green;
+}
+h1{
+    color: orangered;
+}
+p + h3{
+    color: rgb(41, 153, 153);
+}
+.upvote+button{
+    background-color: greenyellow;
+}
+#login{
+    background-color: aqua;
+}
+#signup{
+    background-color: brown;
+    color: azure;
+}
+input [type="text"]{
+    color: greenyellow;
+}
+input[type="password"]{
+    color: red;
+}
+input[type]{
+    background-color: rgb(180, 154, 205);
+}
+button:hover{
+    background-color: black;
+    color: azure;
+}
+button:active{
+    background-color: red;
+    color: black;
+}
+h3:hover{
+    color: black;
+    text-decoration: red line-through;
+}
+p:active{
+    font-weight: bold;
+    color: red;
+}
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+}
+h1::first-letter{
+    color: black;
+}
+p::first-line{
+    color: blue;
+}
+p::selection{
+    background-color: aquamarine;
+}
